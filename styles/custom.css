@@ -28,3 +28,8 @@
   aspect-ratio: 1920/1440;
   object-fit: cover;
 }
+
+.back-to-gallery-href {
+  display: block;
+  margin-bottom: 1.5rem;
+}
